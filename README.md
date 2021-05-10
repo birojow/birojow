@@ -3,7 +3,10 @@
 
 Me chamo Fabiano, sou técnico em eletrônica e estudante de análise e desenvolvimento de sistemas. Em breve iniciarei minha carreira como programador backend na <a href="https://www.zup.com.br/">Zup Innovation</a>.
 
-![](https://w2.countingdownto.com/3598363)
+<iframe src="https://w2.countingdownto.com/3598363"
+	width="300"
+	height="154"
+	frameborder="0"></iframe>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=birojow&repo=birojow&countColorcountColor)
 
