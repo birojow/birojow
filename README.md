@@ -23,6 +23,6 @@ Me chamo Fabiano, sou técnico em eletrônica e estudante de análise e desenvol
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/fabiano-augusto-de-mello"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fabiano-augusto-de-mello/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
