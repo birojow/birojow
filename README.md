@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! </h1>
 
-Me chamo Fabiano, sou técnico em eletrônica e estudante de análise e desenvolvimento de sistemas. Em breve iniciarei minha carreira como programador backend na <a href="https://www.zup.com.br/">Zup Innovation</a>.
+Me chamo Fabiano, sou técnico em eletrônica e estudante de análise e desenvolvimento de sistemas. Sou Desenvolvedor Junior na <a href="https://www.zup.com.br/">Zup Innovation</a>.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=birojow&repo=birojow&countColorcountColor)
 
