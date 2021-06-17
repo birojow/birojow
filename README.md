@@ -6,8 +6,8 @@ Me chamo Fabiano, sou técnico em eletrônica e estudante de análise e desenvol
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=birojow&repo=birojow&countColorcountColor)
 
 ### Linguagens e ferramentas 🛠  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=green)&nbsp;  
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&color=orange)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&color=orange)&nbsp;  
+![C](https://img.shields.io/badge/-C-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=green)&nbsp;  
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&color=orange)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&color=yellow)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=yellow)&nbsp;  
 
 
