@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! </h1>
 
-Me chamo Fabiano, sou técnico em eletrônica e estudante de análise e desenvolvimento de sistemas. Sou desenvolvedor backend na <a href="https://www.zup.com.br/">Zup Innovation</a>.
+Me chamo Fabiano, sou técnico em eletrônica e estudante de análise e desenvolvimento de sistemas. Sou desenvolvedor na <a href="https://www.zup.com.br/">Zup Innovation</a>.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=birojow&repo=birojow&countColorcountColor)
 
 ### Linguagens e ferramentas 🛠  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;  
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&color=orange)&nbsp;![JPA](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;  
+![Kotlin](https://img.shields.io/badge/-C-05122A?style=flat&color=green)&nbsp;![C](https://img.shields.io/badge/-C-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;  
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Micronaut](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Android](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&color=orange)&nbsp;![JPA](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&color=yellow)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=yellow)&nbsp;  
 
 
