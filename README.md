@@ -5,9 +5,9 @@ Sou técnico em eletrônica e tecnólogo em análise e desenvolvimento de sistem
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=birojow&repo=birojow&countColorcountColor)
 
 ### Linguagens e ferramentas 🛠  
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![C](https://img.shields.io/badge/-C-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;  
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&color=orange)&nbsp;![Android](https://img.shields.io/badge/-Android-05122A?style=flat&color=orange)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&color=orange)&nbsp;![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&color=orange)&nbsp;  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&color=yellow)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=yellow)&nbsp;  
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;  
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&color=orange)&nbsp;![Compose](https://img.shields.io/badge/-Compose-05122A?style=flat&color=blue)&nbsp;  
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=yellow)&nbsp; 
 
 
 ### Estatísticas ⚙️
