@@ -85,7 +85,7 @@
 [git]: https://www.git-scm.com/
 [git-badge]: https://img.shields.io/badge/-Git-100000?&logo=git
 [gradle]: https://gradle.org/
-[gradle-badge]: https://img.shields.io/badge/-Gradle-4DC9C0?logo=gradle&logoColor=black
+[gradle-badge]: https://img.shields.io/badge/-Gradle-cyan?logo=gradle&logoColor=black
 [jetpack-compose]: https://developer.android.com/develop/ui/compose
 [jetpack-compose-badge]: https://img.shields.io/badge/-Jetpack%20Compose-3DDC84?&logo=jetpackcompose
 [junit]: https://junit.org/junit4/
@@ -93,7 +93,7 @@
 [koin]: https://insert-koin.io/
 [koin-badge]: https://img.shields.io/badge/-Koin-F9B233
 [material-design]: https://m3.material.io/
-[material-design-badge]: https://img.shields.io/badge/-Material%20Design-005C97?&logo=materialdesign
+[material-design-badge]: https://img.shields.io/badge/-Material%20Design-005C97?logo=materialdesign&logoColor=white
 [mockito]: https://site.mockito.org/
 [mockito-badge]: https://img.shields.io/badge/-Mockito-0A7416
 [mockk]: https://mockk.io/
@@ -121,9 +121,9 @@
 [tdd]: https://en.wikipedia.org/wiki/Test-driven_development
 [tdd-badge]: https://img.shields.io/badge/-TDD-000
 [iti]: https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR
-[iti-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Iti-414141?logo=google-play&logoColor=white
+[iti-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Iti-FE3386?logo=google-play&logoColor=white
 [emps]: https://play.google.com/store/apps/details?id=com.itau.pme.emps&hl=pt_BR
-[emps-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Emps-414141?logo=google-play&logoColor=white
+[emps-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Emps-002ED1?logo=google-play&logoColor=white
 [medium]: https://medium.com/@birojow
 [medium-badge]: https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white
 [linkedin]: https://www.linkedin.com/in/fabiano-augusto-de-mello/
