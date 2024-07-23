@@ -112,7 +112,7 @@
 [clean-code]: https://wiki.c2.com/?CleanCode
 [clean-code-badge]: https://img.shields.io/badge/-🧼%20Clean%20Code-000
 [solid]: https://en.wikipedia.org/wiki/SOLID
-[solid-badge]: https://img.shields.io/badge/-SOLID-000
+[solid-badge]: https://img.shields.io/badge/-💎%20SOLID-000
 [scrum]: https://www.scrum.org/
 [scrum-badge]: https://img.shields.io/badge/-Scrum-000?&logo=scrumalliance
 [tdd]: https://en.wikipedia.org/wiki/Test-driven_development
