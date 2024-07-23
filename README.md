@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/birojow/birojow/main/banner.gif)
 
-### Languages and frameworks 👨‍💻 
+### Languages and frameworks 🧱
 [![][kotlin-badge]][kotlin]
 [![][android-badge]][android]
 [![][java-badge]][java]
@@ -35,7 +35,7 @@
 ### Metodologies 🛠️
 [![][scrum-badge]][scrum]
 
-### Professional projects
+### Professional projects 💰
 
 <details>
   <summary>Itaú Iti: digital bank with +10 million users</summary>
@@ -51,8 +51,12 @@
   
 </details>
 
-### Personal projects
+### Personal projects 💖
 🏗️ coming soon!
+
+### Education 🎓
+- Associate Degree in Electronics ⚡
+- Associate Degree in Systems Analysis and Design 👨‍💻
 
 ### Netwoking 🤝
 [![][linkedin-badge]][linkedin]
