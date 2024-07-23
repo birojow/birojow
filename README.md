@@ -34,11 +34,23 @@
 
 ### Metodologies 🛠️
 [![][scrum-badge]][scrum]
-[![][tdd-badge]][tdd]
 
-### Studying 📚
-[![][scheme-badge]][scheme]
-[![][prolog-badge]][prolog]
+### Professional projects
+
+<details>
+  <summary>Itaú Iti: digital bank with +10 million users</summary>
+[![][iti]][iti-play-store-badge]
+  
+</details>
+
+<details>
+  <summary>Itaú Emps: new digital bank for legal entities</summary>
+[![][emps]][emps-play-store-badge]
+  
+</details>
+
+### Personal projects
+🏗️ coming soon!
 
 ### Netwoking 🤝
 [![][linkedin-badge]][linkedin]
@@ -99,9 +111,9 @@
 [scrum-badge]: https://img.shields.io/badge/-Scrum-000?&logo=scrumalliance
 [tdd]: https://en.wikipedia.org/wiki/Test-driven_development
 [tdd-badge]: https://img.shields.io/badge/-🎯%20TDD-000
-[scheme]: https://www.scheme.org/
-[scheme-badge]: https://img.shields.io/badge/-λ%20Scheme-000
-[prolog]: https://en.wikipedia.org/wiki/Prolog
-[prolog-badge]: https://img.shields.io/badge/-🦉%20Prolog-000
+[iti]: https://play.google.com/store/search?q=iti&c=apps&hl=pt_BR
+[iti-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Iti-414141?logo=google-play&logoColor=white
+[emps]: https://play.google.com/store/search?q=iti&c=apps&hl=pt_BR
+[emps-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Emps-414141?logo=google-play&logoColor=white
 [linkedin]: https://www.linkedin.com/in/fabiano-augusto-de-mello/
 [linkedin-badge]: https://img.shields.io/badge/-Linkedin-000?&logo=linkedin
