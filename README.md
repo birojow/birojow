@@ -65,9 +65,9 @@
 [![][linkedin-badge]][linkedin]
 
 [kotlin]: https://kotlinlang.org/
-[kotlin-badge]: https://img.shields.io/badge/-Kotlin-B125EA?&logo=Kotlin
+[kotlin-badge]: https://img.shields.io/badge/-Kotlin-B125EA?logo=Kotlin&logoColor=white
 [android]: https://developer.android.com/?gad_source=1&gclid=EAIaIQobChMIi9vdgeDlhgMVhUFIAB1GXQaPEAAYASAAEgKq2fD_BwE&gclsrc=aw.ds
-[android-badge]: https://img.shields.io/badge/-Android-3DDC84?&logo=Android
+[android-badge]: https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white
 [java]: https://www.java.com/pt-BR/
 [java-badge]: https://img.shields.io/badge/-Java-ED8B00?&logo=openjdk
 [python]: https://www.python.org/
@@ -75,7 +75,7 @@
 [sql]: https://en.wikipedia.org/wiki/SQL
 [sql-badge]: https://img.shields.io/badge/-SQL-000?&logo=MySQL
 [android-studio]: https://developer.android.com/studio?gad_source=1&gclid=EAIaIQobChMIq_e93uXlhgMV3lxIAB3WtAs4EAAYASAAEgIMj_D_BwE&gclsrc=aw.ds
-[android-studio-badge]: https://img.shields.io/badge/-Android%20Studio-3DDC84?&logo=androidstudio
+[android-studio-badge]: https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white
 [coroutines]: https://kotlinlang.org/docs/coroutines-overview.html
 [coroutines-badge]: https://img.shields.io/badge/-Kotlin%20Coroutines-B125EA
 [dagger-hilt]: https://dagger.dev/hilt/
