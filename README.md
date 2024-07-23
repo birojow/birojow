@@ -113,9 +113,9 @@
 [scrum-badge]: https://img.shields.io/badge/-Scrum-000?&logo=scrumalliance
 [tdd]: https://en.wikipedia.org/wiki/Test-driven_development
 [tdd-badge]: https://img.shields.io/badge/-🎯%20TDD-000
-[iti]: https://play.google.com/store/search?q=iti&c=apps&hl=pt_BR
+[iti]: https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR
 [iti-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Iti-414141?logo=google-play&logoColor=white
-[emps]: https://play.google.com/store/search?q=iti&c=apps&hl=pt_BR
+[emps]: https://play.google.com/store/apps/details?id=com.itau.pme.emps&hl=pt_BR
 [emps-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Emps-414141?logo=google-play&logoColor=white
 [linkedin]: https://www.linkedin.com/in/fabiano-augusto-de-mello/
 [linkedin-badge]: https://img.shields.io/badge/-Linkedin-000?&logo=linkedin
