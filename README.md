@@ -39,13 +39,13 @@
 
 <details>
   <summary>Itaú Iti: digital bank with +10 million users</summary>
-[![][iti]][iti-play-store-badge]
+[![][iti-play-store-badge]][iti]
   
 </details>
 
 <details>
   <summary>Itaú Emps: new digital bank for legal entities</summary>
-[![][emps]][emps-play-store-badge]
+[![][emps-play-store-badge]][emps]
   
 </details>
 
