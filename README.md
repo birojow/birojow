@@ -58,7 +58,7 @@
 - Associate Degree in Electronics ⚡
 - Associate Degree in Systems Analysis and Design 👨‍💻
 
-### Publications
+### Publications 📝
 [![][medium-badge]][medium]
 
 ### Netwoking 🤝
