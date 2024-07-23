@@ -58,6 +58,9 @@
 - Associate Degree in Electronics ⚡
 - Associate Degree in Systems Analysis and Design 👨‍💻
 
+### Publications
+[![][medium-badge]][medium]
+
 ### Netwoking 🤝
 [![][linkedin-badge]][linkedin]
 
@@ -121,5 +124,7 @@
 [iti-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Iti-414141?logo=google-play&logoColor=white
 [emps]: https://play.google.com/store/apps/details?id=com.itau.pme.emps&hl=pt_BR
 [emps-play-store-badge]: https://img.shields.io/badge/Ita%C3%BA%20Emps-414141?logo=google-play&logoColor=white
+[medium]: https://medium.com/@birojow
+[medium-badge]: https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white
 [linkedin]: https://www.linkedin.com/in/fabiano-augusto-de-mello/
 [linkedin-badge]: https://img.shields.io/badge/-Linkedin-000?&logo=linkedin
