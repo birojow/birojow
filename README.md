@@ -69,7 +69,7 @@
 [android]: https://developer.android.com/?gad_source=1&gclid=EAIaIQobChMIi9vdgeDlhgMVhUFIAB1GXQaPEAAYASAAEgKq2fD_BwE&gclsrc=aw.ds
 [android-badge]: https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white
 [java]: https://www.java.com/pt-BR/
-[java-badge]: https://img.shields.io/badge/-Java-ED8B00?&logo=openjdk
+[java-badge]: https://img.shields.io/badge/-Java-FFFFFF?&logo=openjdk
 [python]: https://www.python.org/
 [python-badge]: https://img.shields.io/badge/-Python-14354C?&logo=Python
 [sql]: https://en.wikipedia.org/wiki/SQL
@@ -77,15 +77,15 @@
 [android-studio]: https://developer.android.com/studio?gad_source=1&gclid=EAIaIQobChMIq_e93uXlhgMV3lxIAB3WtAs4EAAYASAAEgIMj_D_BwE&gclsrc=aw.ds
 [android-studio-badge]: https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white
 [coroutines]: https://kotlinlang.org/docs/coroutines-overview.html
-[coroutines-badge]: https://img.shields.io/badge/-Kotlin%20Coroutines-B125EA
+[coroutines-badge]: https://img.shields.io/badge/-Kotlin%20Coroutines-B125EA?logo=Kotlin&logoColor=white
 [dagger-hilt]: https://dagger.dev/hilt/
-[dagger-hilt-badge]: https://img.shields.io/badge/-🗡️%20Dagger%20Hilt-3DDC84
+[dagger-hilt-badge]: https://img.shields.io/badge/-🗡️%20Dagger%20Hilt-2196F3
 [espresso]: https://developer.android.com/training/testing/espresso
 [espresso-badge]: https://img.shields.io/badge/-☕%20Espresso-3DDC84
 [git]: https://www.git-scm.com/
 [git-badge]: https://img.shields.io/badge/-Git-100000?&logo=git
 [gradle]: https://gradle.org/
-[gradle-badge]: https://img.shields.io/badge/-Gradle-cyan?&logo=gradle
+[gradle-badge]: https://img.shields.io/badge/-Gradle-cyan?logo=gradle&logoColor=black
 [jetpack-compose]: https://developer.android.com/develop/ui/compose
 [jetpack-compose-badge]: https://img.shields.io/badge/-Jetpack%20Compose-3DDC84?&logo=jetpackcompose
 [junit]: https://junit.org/junit4/
